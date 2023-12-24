@@ -9,4 +9,4 @@ Crea un formulario con:
 - Checkbox - Language and Frameworks known
 - Button - Submit
 
-# (https://erigt.github.io/ejercicio_html_forms/)
+https://erigt.github.io/ejercicio_html_forms/
